@@ -1,0 +1,74 @@
+[
+    {
+        "feature": "Py_m",
+        "importance": 0.2510540187358856
+    },
+    {
+        "feature": "pitch_deg",
+        "importance": 0.23700149357318878
+    },
+    {
+        "feature": "Bx_true_nT",
+        "importance": 0.13875027000904083
+    },
+    {
+        "feature": "roll_deg",
+        "importance": 0.11962100118398666
+    },
+    {
+        "feature": "Pz_m",
+        "importance": 0.10664697736501694
+    },
+    {
+        "feature": "Px_m",
+        "importance": 0.07976711541414261
+    },
+    {
+        "feature": "Bx_meas_nT",
+        "importance": 0.03744639456272125
+    },
+    {
+        "feature": "Bz_true_nT",
+        "importance": 0.020967794582247734
+    },
+    {
+        "feature": "yaw_deg",
+        "importance": 0.0020476726349443197
+    },
+    {
+        "feature": "B_proj_D1_nT",
+        "importance": 0.001408676733262837
+    },
+    {
+        "feature": "B_total_true_nT",
+        "importance": 0.0013560861116275191
+    },
+    {
+        "feature": "By_true_nT",
+        "importance": 0.0011660568416118622
+    },
+    {
+        "feature": "By_meas_nT",
+        "importance": 0.0009785756701603532
+    },
+    {
+        "feature": "B_proj_D4_nT",
+        "importance": 0.0004870024567935616
+    },
+    {
+        "feature": "Bz_meas_nT",
+        "importance": 0.0004328132199589163
+    },
+    {
+        "feature": "B_proj_D2_nT",
+        "importance": 0.00033427169546484947
+    },
+    {
+        "feature": "B_proj_D3_nT",
+        "importance": 0.00028786828625015914
+    },
+    {
+        "feature": "B_total_meas_nT",
+        "importance": 0.0002459617389831692
+    }
+]
